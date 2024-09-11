@@ -8,13 +8,13 @@ The code automatically and quickly sends the entire script of a movie through Wh
 
 ## Available Scripts
 
-- [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/shrek.js)
-- [Bee Movie](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/bee.js)
-- [All scripts](https://github.com/sneycampos/SendScriptWhatsApp)
+- [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek.js)
+- [Bee Movie](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/bee.js)
+- [All scripts](https://github.com/sneycampos/SendScriptWhatsApp/scripts)
 
 ## Usage
 
-- Open [shrek.js](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/shrek.js) or any other available script
+- Open [shrek.js](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek.js) or any other available script
 - Copy the entire content (click RAW to view the full code)
 - In WhatsApp Web, open the browser console (F12 or Right Click > Inspect)
 - Paste the code into the console and press Enter
