@@ -9,10 +9,10 @@ The code automatically and quickly sends the entire script of a movie through Wh
 ## Available Scripts
 
 - [2Fast 2Furious](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/2fast2furious.js)
-- [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek.js)
-- [Shrek 2](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek-2.js)
 - [Bee Movie](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/bee.js)
 - [Lord of the Rings: The Fellowship of the Ring](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/lord-of-the-rings-1.js)
+- [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek.js)
+- [Shrek 2](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek-2.js)
 - [All scripts](https://github.com/sneycampos/SendScriptWhatsApp/tree/main/scripts)
 
 ## Usage
