@@ -1,26 +1,25 @@
 # SendScriptWhatsApp
 
-> Código para enviar o Script inteiro de Shrek, Bee Movie, dentre outros, pelo WhatsApp Web de forma automática e rápida.
-Muito utilizado para irritar amigos e familiares (e até mesmo inimigos).
+> Code to send the entire script of Shrek, Bee Movie, and others via WhatsApp Web quickly and automatically. It is often used to annoy friends, family, and even enemies.
 
-## Como funciona
+## How it works
 
-O código envia o script inteiro de um filme pelo WhatsApp Web, de forma automática e rápida, sem a necessidade de copiar e colar manualmente linha por linha.
+The code automatically and quickly sends the entire script of a movie through WhatsApp Web without the need to manually copy and paste line by line.
 
-## Scripts disponíveis
+## Available Scripts
 
 - [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/shrek.js)
 - [Bee Movie](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/bee.js)
-- [Todos os scripts](https://github.com/sneycampos/SendScriptWhatsApp)
+- [All scripts](https://github.com/sneycampos/SendScriptWhatsApp)
 
-## Utilização
+## Usage
 
-- Abra [shrek.js](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/shrek.js) ou qualquer outro script disponível
-- Copie todo o conteúdo (clique em RAW para visualizar o código completo)
-- No WhatsApp Web abra o console do Browser (F12 ou Click Direito > Inspecionar)
-- Cole o código no console e aperte Enter
+- Open [shrek.js](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/shrek.js) or any other available script
+- Copy the entire content (click RAW to view the full code)
+- In WhatsApp Web, open the browser console (F12 or Right Click > Inspect)
+- Paste the code into the console and press Enter
 
-| ⚠️ Aviso importante! nas versões mais recentes do Google Chrome, está sendo impedido que qualquer script seja colado no Console.            |
+| ⚠️ Important Notice! In the most recent versions of Google Chrome, pasting any script into the Console is being blocked.          |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
-| ***Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow pasting"*** | 
-| Após isso será permitido colar e continuar a execução do script                                                                             |
+| ***To bypass this issue, the developer console expects a textual confirmation by typing "allow pasting" in the console.*** | 
+| After that, you will be allowed to paste and proceed with the script execution.                                                                           |
