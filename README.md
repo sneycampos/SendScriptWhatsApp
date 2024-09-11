@@ -10,7 +10,7 @@ The code automatically and quickly sends the entire script of a movie through Wh
 
 - [Shrek](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/shrek.js)
 - [Bee Movie](https://github.com/sneycampos/SendScriptWhatsApp/blob/main/scripts/bee.js)
-- [All scripts](https://github.com/sneycampos/SendScriptWhatsApp/scripts)
+- [All scripts](https://github.com/sneycampos/SendScriptWhatsApp/tree/main/scripts)
 
 ## Usage
 
